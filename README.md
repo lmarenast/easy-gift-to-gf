@@ -33,6 +33,6 @@ In addition the resulting image will be automatically saved in D: \ easy_gif_to_
 
 <img src="samples\3.png">
 
-
+Model taken from: [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
 
 
