@@ -23,7 +23,7 @@ Now, we go to the code folder and execute the script
 
 After doing this, the windows explorer opens to select the photo
 
-    <img src="samples\1.png">
+<img src="samples\1.png">
 
 
 
