@@ -6,7 +6,7 @@ We will show an example of how to use it
 
 We need to create a virtual environment with python 3.6, for this we use the following command
     
-    python -m venv /my/python-venvs/env-py36
+    python -m venv env-py36
 
 Then we need to activate the virtual environment
 
