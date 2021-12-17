@@ -10,7 +10,7 @@ We need to create a virtual environment with python 3.6, for this we use the fol
 
 Then we need to activate the virtual environment
 
-    env-py36\Scriptts\activate
+    env-py36\Scripts\activate
 
 We clone this repository and install the dependencies with the following command
 
