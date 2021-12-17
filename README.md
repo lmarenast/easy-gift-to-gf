@@ -23,11 +23,15 @@ Now, we go to the code folder and execute the script
 
 After doing this, the windows explorer opens to select the photo
 
-    <img src="samples\1.png">
+<img src="samples\1.png">
 
+Then, the result will be displayed
 
+<img src="samples\2.png">
 
+In addition the resulting image will be automatically saved in D: \ easy_gif_to_gf \ output.jpg
 
+<img src="samples\3.png">
 
 
 
