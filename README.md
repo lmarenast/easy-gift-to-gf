@@ -4,13 +4,13 @@ What better gift than a drawing for your girlfriend or boyfriend? In this projec
 
 We will show an example of how to use it
 
-We need to create a virtual environment with python 3.6, for this we use the following command
+We need to create a virtual environment
     
-    python -m venv env-py36
+    python -m venv myvenv
 
 Then we need to activate the virtual environment
 
-    env-py36\Scripts\activate
+    myvenv\Scripts\activate
 
 We clone this repository and install the dependencies with the following command
 
